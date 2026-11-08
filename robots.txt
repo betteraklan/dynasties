@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dynasties.betteraklan.org/sitemap.xml
